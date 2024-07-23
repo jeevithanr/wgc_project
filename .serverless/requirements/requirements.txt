@@ -1,0 +1,4 @@
+Flask
+Werkzeug
+botocore==1.34.144
+serverless-wsgi
